@@ -1,0 +1,6 @@
+framework module Pods_photo_finder {
+  umbrella header "Pods-photo-finder-umbrella.h"
+
+  export *
+  module * { export * }
+}
